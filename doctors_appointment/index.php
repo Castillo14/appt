@@ -118,7 +118,7 @@
                 </div>
             </div>
             <br>
-            <div class="container"><div class="small text-center text-muted">Copyright © 2020 - <?php echo $_SESSION['setting_name'] ?> | <a href="https://yaramay.com/" target="_blank">Yaramay</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Copyright © 2020 - <?php echo $_SESSION['setting_name'] ?> | <a href="https://yaramay.com/" target="_blank">Yaramay Computer Maintenance Services</a></div></div>
         </footer>
         
        <?php include('footer.php') ?>
