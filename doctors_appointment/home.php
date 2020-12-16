@@ -9,10 +9,6 @@ include 'admin/db_connect.php';
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-        <title>Doccure</title>
-        
-        <!-- Favicons -->
-        <link type="image/x-icon" href="assets/img/favicon.png" rel="icon">
         
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -24,12 +20,7 @@ include 'admin/db_connect.php';
         <!-- Main CSS -->
         <link rel="stylesheet" href="assets/css/style.css">
 
-        
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="assets/js/html5shiv.min.js"></script>
-            <script src="assets/js/respond.min.js"></script>
-        <![endif]-->
+    
     
     </head>
 <style>
@@ -206,78 +197,8 @@ border-radius: 2px; }
 
 </div>
 <!--/.Carousel Wrapper-->
-<!-- Clinic and Specialities -->
-            <section class="section section-specialities">
-                <div class="container-fluid">
-                    <div class="section-header text-center">
-                        <h2>Clinic and Specialities</h2>
-                        <p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-md-9">
-                            <!-- Slider -->
-                            <div class="specialities-slider slider">
-                            
-                                <!-- Slider Item -->
-                                <div class="speicality-item text-center">
-                                    <div class="speicality-img">
-                                        <img src="assets/img/specialities/specialities-01.png" class="img-fluid" alt="Speciality">
-                                        <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    </div>
-                                    <p>Urology</p>
-                                </div>  
-                                <!-- /Slider Item -->
-                                
-                                <!-- Slider Item -->
-                                <div class="speicality-item text-center">
-                                    <div class="speicality-img">
-                                        <img src="assets/img/specialities/specialities-02.png" class="img-fluid" alt="Speciality">
-                                        <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    </div>
-                                    <p>Neurology</p>    
-                                </div>                          
-                                <!-- /Slider Item -->
-                                
-                                <!-- Slider Item -->
-                                <div class="speicality-item text-center">
-                                    <div class="speicality-img">
-                                        <img src="assets/img/specialities/specialities-03.png" class="img-fluid" alt="Speciality">
-                                        <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    </div>  
-                                    <p>Orthopedic</p>   
-                                </div>                          
-                                <!-- /Slider Item -->
-                                
-                                <!-- Slider Item -->
-                                <div class="speicality-item text-center">
-                                    <div class="speicality-img">
-                                        <img src="assets/img/specialities/specialities-04.png" class="img-fluid" alt="Speciality">
-                                        <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    </div>  
-                                    <p>Cardiologist</p> 
-                                </div>                          
-                                <!-- /Slider Item -->
-                                
-                                <!-- Slider Item -->
-                                <div class="speicality-item text-center">
-                                    <div class="speicality-img">
-                                        <img src="assets/img/specialities/specialities-05.png" class="img-fluid" alt="Speciality">
-                                        <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                    </div>  
-                                    <p>Dentist</p>
-                                </div>                          
-                                <!-- /Slider Item -->
-                                
-                            </div>
-                            <!-- /Slider -->
-                            
-                        </div>
-                    </div>
-                </div>   
-            </section>   
-            <!-- Clinic and Specialities -->
             <!-- Availabe Features -->
-    <div id="portfolio" class="container">
+  <!--   <div id="portfolio" class="container">
             <div class="container-fluid p-0">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -304,7 +225,7 @@ border-radius: 2px; }
                     
                 </div>
             </div>
-        </div>
+        </div> -->
 
     <script>
         
